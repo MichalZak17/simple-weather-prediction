@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+air_quality/
+climate_change/
+iframe_figures/
+StudentsPerformance.csv
+
+# Screenshots
+newplot.png
+
 # Distribution / packaging
 .Python
 build/
@@ -74,9 +83,6 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
 profile_default/
