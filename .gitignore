@@ -84,6 +84,9 @@ docs/_build/
 .pybuilder/
 target/
 
+# Thrash stuff:
+another_notebook.ipynb
+
 # IPython
 profile_default/
 ipython_config.py
